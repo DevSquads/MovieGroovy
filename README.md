@@ -13,4 +13,4 @@ You are asked to implement endpoint '/getmovies' it should scrap the first 50 mo
 # Stack
 choosing stack is up to you
 
-For any inquries please contact us on :career@devsquads.com  
+### For any inquries please contact us on :career@devsquads.com  
