@@ -10,7 +10,7 @@ You are asked to implement endpoint '/getmovies' it should scrap the first 50 mo
 ### Task deadline 
    * monday morning 20/7/2020
    
-For any inquries please contact us on :career@devsquads.com  
-
 # Stack
 choosing stack is up to you
+
+For any inquries please contact us on :career@devsquads.com  
